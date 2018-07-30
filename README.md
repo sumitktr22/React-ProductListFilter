@@ -1,5 +1,6 @@
 # React-ProductListFilter
-Simple Product list filter with React
+Simple Product list filter with React 
+(A solution to "Thinking in React" https://reactjs.org/docs/thinking-in-react.html)
 
 Note: The following project has been created using create-react-app npm module
 
